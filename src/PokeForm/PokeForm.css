@@ -1,0 +1,16 @@
+.myform{
+    text-align: center;
+    font: italic;
+    font-weight: bolder;
+    border-radius: 10px;
+    color: purple;
+}
+
+.h1{
+    color: red;
+}
+
+#img{
+    width: 200px;
+    
+}
